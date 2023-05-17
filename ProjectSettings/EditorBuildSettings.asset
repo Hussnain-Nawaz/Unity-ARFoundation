@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/ObjectSelection.unity
+    guid: a67a41b12f1c59348a299d14b43d8979
+  - enabled: 0
+    path: Assets/Scenes/DraggingAndDropping.unity
+    guid: 6f934c8e7df2d0246afda12a4f299151
+  - enabled: 0
+    path: Assets/Scenes/ObjectSelectionWithTMPro.unity
+    guid: 3732f8ecc71292643a20079975f49d90
+  - enabled: 0
+    path: Assets/Scenes/EnableDisablePlaneDetection.unity
+    guid: 26042e45de6b2e24eb8fdd48c39fcdd6
+  - enabled: 0
+    path: Assets/Scenes/CloudPointPlacement.unity
+    guid: 819e7c0fe464b974e97d4f9c8e6c9cbf
+  - enabled: 0
+    path: Assets/Scenes/LightEstimation.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/RealObjectPlacement.unity
+    guid: 461141a5897d62944b3791d2e69aa170
+  - enabled: 0
+    path: Assets/Scenes/SubSystems.unity
+    guid: abd3c8084e82d2b4eac98bfeb35f6731
+  - enabled: 0
+    path: Assets/Scenes/ImageTracking.unity
+    guid: 8124ce0f9dcaaa24eb4a08fb914cabd3
+  - enabled: 1
+    path: Assets/Scenes/MeasuringTape.unity
+    guid: 495c80eef7dafb64d99bff95d6ed824c
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d585ad3dbbe9a8e4185da701e11d0211, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cb951c2a49bbcc743ad13f941b61f404, type: 2}
